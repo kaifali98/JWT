@@ -1,0 +1,25 @@
+# .NET Core & Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.project.json
+*.jfm
+*.suo
+*.userosscache
+*.sln.docstates
+ncrunch.solution.user
+_ReSharper.*/
+package-lock.json
+
+# Web / Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
